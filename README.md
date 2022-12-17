@@ -222,4 +222,5 @@ Learn DSA | Beginner Level to Advanced Level
 - [N-Queens Problem](Algorithms/Backtracking/n-queens.cpp)
 - [Rat In A Maze Problem](Algorithms/Backtracking/rat-in-a-maze-problem.cpp)
 
-![DSA Roadmap](https://user-images.githubusercontent.com/75237577/187071476-54b071b0-9d9d-441d-9287-199e1716e10b.png)
+[![DSA Placement Roadmao](https://user-images.githubusercontent.com/75237577/208226048-17b04830-668c-42f1-bf28-c503dec6cc90.png)](https://whimsical.com/dsa-placement-by-yatharth-chauhan-AzERM8kHAJ4nqZLGL6uQzf)
+
