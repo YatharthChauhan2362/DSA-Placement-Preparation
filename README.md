@@ -107,6 +107,7 @@ Learn DSA | Beginner Level to Advanced Level
 
 ## Sorting
 
+
 - [Bubble Sort](Algorithms/Sorting/bubble-sort.cpp)
 - [Insertion Sort](Algorithms/Sorting/insertion-sort.cpp)
 - [Quicksort](Algorithms/Sorting/quick-sort.cpp)
@@ -222,4 +223,5 @@ Learn DSA | Beginner Level to Advanced Level
 - [N-Queens Problem](Algorithms/Backtracking/n-queens.cpp)
 - [Rat In A Maze Problem](Algorithms/Backtracking/rat-in-a-maze-problem.cpp)
 
-![DSA Roadmap](https://user-images.githubusercontent.com/75237577/187071476-54b071b0-9d9d-441d-9287-199e1716e10b.png)
+[![DSA Placement Roadmao](https://user-images.githubusercontent.com/75237577/208226230-fab91252-162c-4a2f-a788-a95daea8848c.png)](https://whimsical.com/dsa-placement-by-yatharth-chauhan-AzERM8kHAJ4nqZLGL6uQzf)
+
