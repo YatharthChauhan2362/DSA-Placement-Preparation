@@ -1,7 +1,8 @@
 #include<iostream> 
 using namespace std;
 
-char toLowerCase(char ch) {
+char toLowerCase(char ch) 
+{
     if(ch >='a' && ch <='z')
         return ch;
     else{
